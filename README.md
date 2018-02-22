@@ -1,6 +1,6 @@
 # geeky-store
 
-> Mini blog and ecommerce store
+> Mini Blog and Link store
 
 ## Build Setup
 
